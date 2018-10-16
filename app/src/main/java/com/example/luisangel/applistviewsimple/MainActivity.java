@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     String[] vCiudades = new String[]
             {"Canta", "Cusco", "Piura","Huancayo", "Lima", "Trujillo","Ica", "Callao", "Puno","Trujillo", "Arequipa", "Iquitos"};
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
